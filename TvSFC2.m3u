@@ -142,12 +142,22 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TVQ Sports
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS GT HD" tvg-logo="http://daleplaypro.com:8080/images/f8a263a8572d537deefa4715de411f42.png" group-title="✅ TV GUATEMALA ✅",CLARO SPORTS 2 GT HD
-http://104.238.222.251:9000/get/pnJRm72DcO6GK4_Vt5owE2dKSDMycy9LU2Q0SWxLaXhRUjdlUDRLanMwTEVKSXFSblJtcXVTTjBuNVRvYmkwbUJ6VTU3aGFUMHZuSVZpN0dTVHlBZzMyN1BSNGZzMGZINDZPWlpnPT0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS GT HD" tvg-logo="http://daleplaypro.com:8080/images/f8a263a8572d537deefa4715de411f42.png" group-title="✅ TV GUATEMALA ✅",CLARO SPORTS HD
+http://104.238.222.251:9000/get/58nCiRO-a7G8-j84b-4YQ01MZ0VLUUNZYW0vT1QvY3g5NTV3YkNFWmQzU1JDMkpxbFBnam5VKzIyZURKWlhRNG1OSW12VmZQRDVzcTZSR1VGM0orNDlWN2xEMm9KY3JyQUo0RnFBPT0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS GT HD" tvg-logo="http://daleplaypro.com:8080/images/f8a263a8572d537deefa4715de411f42.png" group-title="✅ TV GUATEMALA ✅",CLARO SPORTS 2 GT FHD
+http://tv.globaldomain.xyz:8080/pachagu/dw5PnHY4Ue/8262
 #EXTINF:-1 tvg-id="" tvg-name="TIGOSPORTS" tvg-logo="" group-title="✅ TV GUATEMALA ✅",TIGO SPORTS
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/115788.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGOSPORTS" tvg-logo="" group-title="✅ TV GUATEMALA ✅",TIGO SPORTS GT HD
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442559.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGOSPORTS" tvg-logo="" group-title="✅ TV GUATEMALA ✅",TIGO SPORTS FHD 
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442562.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",GUATV
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhZWQyZGVjZGRlZWM4MDE0Yzg2ZjE3MTY5Y2I3M2Q3NCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzY5MTI5NjE4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.dfMCys4pkHqeuBP9kGqjdK5uH_zZl1pKXHW2H1sRDttHdbgODPcSfKBQu-9wGlWwd0bbB8AwmZIrVObe2PvWJI5SCuQ9ovzvJrAqvISTFzo7SghfoGM5DHcMKBD_6LtABPififoGp5t6ed8gJc6o3B7HCWXc0jYQBEEjC3X0bORvULKnMbM3ujdI8GPxOkXOn7imYkiRXb5GBJpSdZ4Qnzt6N5a5lczXTreF5f6rj3vBA9ql-Y9TeF3XpXgn6_5BtqBaTuq6yj4j3KB_jb4eZf2SqP6suAIDSB-Ued3U7DtI0cKmjiy-BzmTYjbqHzGLTIxgyA26z1x0x62n_MQ1tA/manifest/video.m3u8?CMCD=cid%3D%221769086418626%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22e55e8402-9033-46c4-b286-151318c5568b%22%2Csu
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Liga GT 
+http://tv.globaldomain.xyz:8080/pachagu/dw5PnHY4Ue/173680
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Liga GT 2
+http://tv.globaldomain.xyz:8080/pachagu/dw5PnHY4Ue/173681
 
 ⏩️EVENTO SFC LA UNIÓN🇳🇬
 
@@ -155,273 +165,155 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 #EXTINF:-1 tvg-logo="https://c4fd0838c8.cbaul-cdnwnd.com/952b98c6f38743770439abf4fa7ac74e/200000046-4313743139/Concierto%20internacional%20aldea%20xeaj_20260119_202530_0000.png?ph=c4fd0838c8" group-title="⏩️EVENTONACIONAL🇬🇹", Producciones La Joyita HD
 https://scontent.fgua4-1.fna.fbcdn.net/hvideo-rva-hil/_nc_cat-106/_nc_sr_t-4/v/rASdIUr_HLoNJitjuM1zSQo-yrTeaBCHeruCrmI-mwagbLQ/_nc_ohc-y-chloWmLWIQ7kNvwFvjR7f/live-dash/dash-abr5/900969405845903.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfoSrMymxVaO-kFCe74fnIinsPCmDtSE8f97lzFAoH9PYg&oe=697D97F4
 
-⚽PPV-EVENTOS DEL 01 DE FEBRERO (Hora Guatemala) ⚽
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ◘ NHL ◘ Minnesota Wild vs. Edmonton Oilers ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",22:00 ◘ NHL ◘ Minnesota Wild vs. Edmonton Oilers ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442566.ts
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ◘ NHL ◘ Seatle Kraken vs. Vegas Golden Knights ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",22:00 ◘ NHL ◘ Seatle Kraken vs. Vegas Golden Knights ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442567.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ Boxing ◘ Xander Zayas vs. Abass Baraou ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",19:30 ◘ Boxing ◘ Xander Zayas vs. Abass Baraou ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442568.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ Boxing ◘ Shakur Stevenson vs. Teofimo Lopez ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ Boxing ◘ Shakur Stevenson vs. Teofimo Lopez ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442569.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ Boxing ◘ Shakur Stevenson vs. Teofimo Lopez ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ Boxing ◘ Shakur Stevenson vs. Teofimo Lopez ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442570.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ Boxing ◘ Alan Cantero vs. Juan Cruz Unco ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:30 ◘ Boxing ◘ Alan Cantero vs. Juan Cruz Unco ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442571.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Premier League ◘ Aston Villa vs. Brentford ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Premier League ◘ Aston Villa vs. Brentford ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442572.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Premier League ◘ Aston Villa vs. Brentford ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Premier League ◘ Aston Villa vs. Brentford ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442573.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Premier League ◘ Nottingham Forest vs. Crystal Palace ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Premier League ◘ Nottingham Forest vs. Crystal Palace ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442574.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Premier League ◘ Nottingham Forest vs. Crystal Palace ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Premier League ◘ Nottingham Forest vs. Crystal Palace ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442575.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Premier League ◘ Manchester United vs. Fulham ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Premier League ◘ Manchester United vs. Fulham ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442576.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Premier League ◘ Manchester United vs. Fulham ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Premier League ◘ Manchester United vs. Fulham ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442577.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:30 ◘ Premier League ◘ Tottenham Hotspur vs. Manchester City ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",11:30 ◘ Premier League ◘ Tottenham Hotspur vs. Manchester City ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442578.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:30 ◘ Premier League ◘ Tottenham Hotspur vs. Manchester City ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",11:30 ◘ Premier League ◘ Tottenham Hotspur vs. Manchester City ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442579.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:00 ◘ L∆_LlG∆ ◘ R34l M4drid vs. Rayo V4ll3c4no ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",08:00 ◘ L∆_LlG∆ ◘ R34l M4drid vs. Rayo V4ll3c4no ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442580.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:00 ◘ L∆_LlG∆ ◘ R34l M4drid vs. Rayo V4ll3c4no ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",08:00 ◘ L∆_LlG∆ ◘ R34l M4drid vs. Rayo V4ll3c4no ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442581.ts
-#EXTINF:-1 tvg-id="" tvg-name="09:15 ◘ L∆_LlG∆ ◘ R34l B3tis vs. V4l3nci4 ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",10:15 ◘ L∆_LlG∆ ◘ R34l B3tis vs. V4l3nci4 ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442582.ts
-#EXTINF:-1 tvg-id="" tvg-name="09:15 ◘ L∆_LlG∆ ◘ R34l B3tis vs. V4l3nci4 ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",10:15 ◘ L∆_LlG∆ ◘ R34l B3tis vs. V4l3nci4 ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442583.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:30 ◘ L∆_LlG∆ ◘ G3t4f3 vs. C3lt4 de V1go ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:30 ◘ L∆_LlG∆ ◘ G3t4f3 vs. C3lt4 de V1go ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442584.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:30 ◘ L∆_LlG∆ ◘ G3t4f3 vs. C3lt4 de V1go ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:30 ◘ L∆_LlG∆ ◘ G3t4f3 vs. C3lt4 de V1go ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442585.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ L∆_LlG∆ ◘ 4thl3tic Club vs. R34l Soc13d4d ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ L∆_LlG∆ ◘ 4thl3tic Club vs. R34l Soc13d4d ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442586.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ L∆_LlG∆ ◘ 4thl3tic Club vs. R34l Soc13d4d ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ L∆_LlG∆ ◘ 4thl3tic Club vs. R34l Soc13d4d ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442587.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:00 ◘ L∆_LlG∆ SmartBank ◘ Almería vs. Ceuta ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",08:00 ◘ L∆_LlG∆ SmartBank ◘ Almería vs. Ceuta ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442588.ts
-#EXTINF:-1 tvg-id="" tvg-name="09:15 ◘ L∆_LlG∆ SmartBank ◘ Eibar vs. Sporting Gijón ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",10:15 ◘ L∆_LlG∆ SmartBank ◘ Eibar vs. Sporting Gijón ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442589.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:30 ◘ L∆_LlG∆ SmartBank ◘ CD Castellón vs. FC Andorra ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:30 ◘ L∆_LlG∆ SmartBank ◘ CD Castellón vs. FC Andorra ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442590.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:30 ◘ L∆_LlG∆ SmartBank ◘ Huesca vs. Cádiz ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:30 ◘ L∆_LlG∆ SmartBank ◘ Huesca vs. Cádiz ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442591.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ L∆_LlG∆ SmartBank ◘ Granada vs. Racing Santander ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ L∆_LlG∆ SmartBank ◘ Granada vs. Racing Santander ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442592.ts
-#EXTINF:-1 tvg-id="" tvg-name="05:30 ◘ Serie A ◘ Torino vs. Lecce ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",06:30 ◘ Serie A ◘ Torino vs. Lecce ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442593.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Serie A ◘ Como vs. Atalanta ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Serie A ◘ Como vs. Atalanta ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442594.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:00 ◘ Serie A ◘ Cremonese vs. Internazionale ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:00 ◘ Serie A ◘ Cremonese vs. Internazionale ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442595.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:45 ◘ Serie A ◘ Parma vs. Juventus ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:45 ◘ Serie A ◘ Parma vs. Juventus ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442596.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:30 ◘ Bundesliga ◘ Stuttgart vs. Freiburg ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:30 ◘ Bundesliga ◘ Stuttgart vs. Freiburg ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442597.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:30 ◘ Bundesliga ◘ Borussia Dortmund vs. Heidenheim ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",11:30 ◘ Bundesliga ◘ Borussia Dortmund vs. Heidenheim ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442598.ts
-#EXTINF:-1 tvg-id="" tvg-name="06:30 ◘ Bundesliga 2 ◘ Dynamo Dresden vs. Arminia Bielefeld ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",07:30 ◘ Bundesliga 2 ◘ Dynamo Dresden vs. Arminia Bielefeld ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442599.ts
-#EXTINF:-1 tvg-id="" tvg-name="06:30 ◘ Bundesliga 2 ◘ Hertha BSC vs. Darmstadt 98 ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",07:30 ◘ Bundesliga 2 ◘ Hertha BSC vs. Darmstadt 98 ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442600.ts
-#EXTINF:-1 tvg-id="" tvg-name="06:30 ◘ Bundesliga 2 ◘ Fortuna Düsseldorf vs. Paderborn ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",07:30 ◘ Bundesliga 2 ◘ Fortuna Düsseldorf vs. Paderborn ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442601.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ◘ Ligue 1 ◘ Olympique Lyonnais vs. Lille ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:00 ◘ Ligue 1 ◘ Olympique Lyonnais vs. Lille ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442602.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:15 ◘ Ligue 1 ◘ Angers SCO vs. Metz ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",11:15 ◘ Ligue 1 ◘ Angers SCO vs. Metz ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442603.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:15 ◘ Ligue 1 ◘ Toulouse vs. Auxerre ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",11:15 ◘ Ligue 1 ◘ Toulouse vs. Auxerre ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442604.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:15 ◘ Ligue 1 ◘ Nice vs. Brest ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",11:15 ◘ Ligue 1 ◘ Nice vs. Brest ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442605.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:45 ◘ Ligue 1 ◘ Strasbourg vs. PSG ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:45 ◘ Ligue 1 ◘ Strasbourg vs. PSG ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442606.ts
-#EXTINF:-1 tvg-id="" tvg-name="09:30 ◘ Primeira Liga ◘ Gil Vicente vs. Famalicão ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",10:30 ◘ Primeira Liga ◘ Gil Vicente vs. Famalicão ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442607.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 ◘ Primeira Liga ◘ Sporting CP vs. Nacional ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ Primeira Liga ◘ Sporting CP vs. Nacional ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442608.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:30 ◘ Primeira Liga ◘ Tondela vs. Benfica ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:30 ◘ Primeira Liga ◘ Tondela vs. Benfica ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442609.ts
-#EXTINF:-1 tvg-id="" tvg-name="05:55 ◘ Women's Super League ◘ West Ham United vs. Tottenham Hotspur ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wsl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",06:55 ◘ Women's Super League ◘ West Ham United vs. Tottenham Hotspur ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442610.ts
-#EXTINF:-1 tvg-id="" tvg-name="05:55 ◘ Women's Super League ◘ Manchester United vs. Liverpool ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wsl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",06:55 ◘ Women's Super League ◘ Manchester United vs. Liverpool ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442611.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:30 ◘ Women's Super League ◘ Manchester City vs. Chelsea FC ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wsl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:30 ◘ Women's Super League ◘ Manchester City vs. Chelsea FC ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442612.ts
-#EXTINF:-1 tvg-id="" tvg-name="05:15 ◘ Eredivisie ◘ Excelsior vs. Ajax ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",06:15 ◘ Eredivisie ◘ Excelsior vs. Ajax ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442613.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:30 ◘ Eredivisie ◘ PSV vs. Feyenoord ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",08:30 ◘ Eredivisie ◘ PSV vs. Feyenoord ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442614.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:30 ◘ Eredivisie ◘ Heracles vs. Fortuna Sittard ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",08:30 ◘ Eredivisie ◘ Heracles vs. Fortuna Sittard ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442615.ts
-#EXTINF:-1 tvg-id="" tvg-name="09:45 ◘ Eredivisie ◘ Heerenveen vs. Utrecht ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",10:45 ◘ Eredivisie ◘ Heerenveen vs. Utrecht ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442616.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ Eredivisie ◘ Volendam vs. Go Ahead Eagles ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Eredivisie ◘ Volendam vs. Go Ahead Eagles ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442617.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:30 ◘ Saudi Pro ◘ Al Ittihad vs. Al Najma ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:30 ◘ Saudi Pro ◘ Al Ittihad vs. Al Najma ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442618.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:00 ◘ Super Lig ◘ Galatasaray vs. Kayserispor ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/superlig.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:00 ◘ Super Lig ◘ Galatasaray vs. Kayserispor ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442619.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:20 ◘ UEFA Futsal ◘ España vs. Italia ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/futsal.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:20 ◘ UEFA Futsal ◘ España vs. Italia ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442620.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:50 ◘ UEFA Futsal ◘ Portugal vs. Bélgica ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/futsal.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:50 ◘ UEFA Futsal ◘ Portugal vs. Bélgica ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442621.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ Liga MX ◘ Querétaro vs. Pachuca ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ Liga MX ◘ Querétaro vs. Pachuca ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442622.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ Liga Profesional ◘ Barracas Central vs. Deportivo Riestra ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ Liga Profesional ◘ Barracas Central vs. Deportivo Riestra ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442623.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:15 ◘ Liga Profesional ◘ Boca Juniors vs. Newell's Old Boys ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",17:15 ◘ Liga Profesional ◘ Boca Juniors vs. Newell's Old Boys ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442624.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ Liga Profesional ◘ Rosario Central vs. River Plate ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",19:30 ◘ Liga Profesional ◘ Rosario Central vs. River Plate ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442625.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ Campeonato Mineiro ◘ Betim vs. Cruzeiro ◘ PT-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/campeonatomineiro.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ Campeonato Mineiro ◘ Betim vs. Cruzeiro ◘ PT-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442626.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ◘ Campeonato Carioca ◘ Botafogo vs. Fluminense ◘ PT-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/campeonatocarioca.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ Campeonato Carioca ◘ Botafogo vs. Fluminense ◘ PT-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442627.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ◘ Campeonato Paulista ◘ Botafogo SP vs. Palmeiras ◘ PT-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/campeonatopaulista.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ Campeonato Paulista ◘ Botafogo SP vs. Palmeiras ◘ PT-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442628.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ Supercopa de Brasil ◘ Flamengo vs. Corinthians ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/supercopabrasil.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Supercopa de Brasil ◘ Flamengo vs. Corinthians ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442629.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ Supercopa de Brasil ◘ Flamengo vs. Corinthians ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/supercopabrasil.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Supercopa de Brasil ◘ Flamengo vs. Corinthians ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442630.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ Liga Betplay ◘ Atlético Bucaramanga vs. Alianza ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Liga Betplay ◘ Atlético Bucaramanga vs. Alianza ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442631.ts
-#EXTINF:-1 tvg-id="" tvg-name="15:10 ◘ Liga Betplay ◘ Deportivo Cali vs. Deportivo Pasto ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",16:10 ◘ Liga Betplay ◘ Deportivo Cali vs. Deportivo Pasto ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442632.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:10 ◘ Liga Betplay ◘ Once Caldas vs. Jaguares de Córdoba ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:10 ◘ Liga Betplay ◘ Once Caldas vs. Jaguares de Córdoba ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442633.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:10 ◘ Liga Betplay ◘ Millonarios vs. Medellín ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:10 ◘ Liga Betplay ◘ Millonarios vs. Medellín ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442634.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ Liga Betplay ◘ Llaneros vs. Rionegro Águilas ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:30 ◘ Liga Betplay ◘ Llaneros vs. Rionegro Águilas ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442635.ts
-#EXTINF:-1 tvg-id="" tvg-name="15:00 ◘ Primera sALVADOR ◘ Hércules vs. Municipal Limeño ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primerasalvador.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",16:00 ◘ Primera sALVADOR ◘ Hércules vs. Municipal Limeño ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442636.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:00 ◘ Liga Guatemala ◘ Aurora vs. Malacateco ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraguatemala.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:00 ◘ Liga Guatemala ◘ Aurora vs. Malacateco ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442637.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ Liga Guatemala ◘ Mictlán vs. Achuapa ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraguatemala.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ Liga Guatemala ◘ Mictlán vs. Achuapa ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442638.ts
-#EXTINF:-1 tvg-id="" tvg-name="15:00 ◘ Liga Nacional ◘ Policía Nacional vs. Choloma ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primerahonduras.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",16:00 ◘ Liga Nacional ◘ Policía Nacional vs. Choloma ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442639.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:15 ◘ Liga Nacional ◘ Real España vs. Motagua ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primerahonduras.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:15 ◘ Liga Nacional ◘ Real España vs. Motagua ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442640.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ Liga Nacional ◘ Olancho vs. UPNFM ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primerahonduras.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:30 ◘ Liga Nacional ◘ Olancho vs. UPNFM ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442641.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:30 ◘ Copa América Futsal ◘ Uruguay vs. Colombia ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/americafutsal.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:30 ◘ Copa América Futsal ◘ Uruguay vs. Colombia ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442642.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ Concacaf Sub-17 ◘ El Salvador vs. Trinidad y Tobago ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ Concacaf Sub-17 ◘ El Salvador vs. Trinidad y Tobago ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442643.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:00 ◘ Concacaf Sub-17 ◘ Belice vs. Islas Vírgenes de EE. UU. ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",17:00 ◘ Concacaf Sub-17 ◘ Belice vs. Islas Vírgenes de EE. UU. ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442644.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ Concacaf Sub-17 ◘ Curazao vs. Barbados ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ Concacaf Sub-17 ◘ Curazao vs. Barbados ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442645.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ Concacaf Sub-17 ◘ República Dominicana vs. Nicaragua ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:00 ◘ Concacaf Sub-17 ◘ República Dominicana vs. Nicaragua ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442646.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:45 ◘ FIFA Women's Champions Cup ◘ FAR Rabat vs. NJ/NY Gotham FC ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/fifawcc_w.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",09:45 ◘ FIFA Women's Champions Cup ◘ FAR Rabat vs. NJ/NY Gotham FC ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442647.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 ◘ FIFA Women's Champions Cup ◘ Arsenal vs. Corinthians ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/fifawcc_w.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ FIFA Women's Champions Cup ◘ Arsenal vs. Corinthians ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442648.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:00 ◘ Liga MX Femenil ◘ Guadalajara vs. León ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:00 ◘ Liga MX Femenil ◘ Guadalajara vs. León ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442649.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 ◘ Liga MX Femenil ◘ América vs. Pumas UNAM ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ Liga MX Femenil ◘ América vs. Pumas UNAM ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442650.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ Liga MX Femenil ◘ Pachuca vs. Tigres UANL ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:00 ◘ Liga MX Femenil ◘ Pachuca vs. Tigres UANL ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442651.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 ◘ Liga 1 ◘ Deportivo Garcilaso vs. Sporting Cristal ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ Liga 1 ◘ Deportivo Garcilaso vs. Sporting Cristal ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442652.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:15 ◘ Liga 1 ◘ Alianza Atlético vs. Cusco ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:15 ◘ Liga 1 ◘ Alianza Atlético vs. Cusco ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442653.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ Liga 1 ◘ Universitario vs. ADT ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ Liga 1 ◘ Universitario vs. ADT ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442654.ts
-#EXTINF:-1 tvg-id="" tvg-name="15:00 ◘ Primera División ◘ La Serena vs. Universidad Católica ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",16:00 ◘ Primera División ◘ La Serena vs. Universidad Católica ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442655.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ◘ Primera División ◘ Palestino vs. Ñublense ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ Primera División ◘ Palestino vs. Ñublense ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442656.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ◘ Copa Chile ◘ Curicó Unido vs. Rangers ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/copachile.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ Copa Chile ◘ Curicó Unido vs. Rangers ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442657.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ◘ Supercopa Uruguay ◘ Nacional vs. Peñarol ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/supercopauruguay.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ Supercopa Uruguay ◘ Nacional vs. Peñarol ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442658.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ◘ Supercopa Uruguay ◘ Nacional vs. Peñarol ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/supercopauruguay.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ Supercopa Uruguay ◘ Nacional vs. Peñarol ◘ ES-SD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442659.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:30 ◘ NBA ◘ Milwaukee Bucks vs. Boston Celtics ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:30 ◘ NBA ◘ Milwaukee Bucks vs. Boston Celtics ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442660.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:30 ◘ NBA ◘ Milwaukee Bucks vs. Boston Celtics ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:30 ◘ NBA ◘ Milwaukee Bucks vs. Boston Celtics ◘ ES-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442661.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NBA ◘ Brooklyn Nets vs. Detroit Pistons ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NBA ◘ Brooklyn Nets vs. Detroit Pistons ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442662.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NBA ◘ Chicago Bulls vs. Miami Heat ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NBA ◘ Chicago Bulls vs. Miami Heat ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442663.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NBA ◘ Utah Jazz vs. Toronto Raptors ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NBA ◘ Utah Jazz vs. Toronto Raptors ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442664.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NBA ◘ Sacramento Kings vs. Washington Wizards ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NBA ◘ Sacramento Kings vs. Washington Wizards ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442665.ts
-#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NBA ◘ Los Angeles Lakers vs. New York Knicks ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ NBA ◘ Los Angeles Lakers vs. New York Knicks ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442666.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ NBA ◘ Los Angeles Clippers vs. Phoenix Suns ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:00 ◘ NBA ◘ Los Angeles Clippers vs. Phoenix Suns ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442667.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 ◘ NBA ◘ Cleveland Cavaliers vs. Portland Trail Blazers ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",21:00 ◘ NBA ◘ Cleveland Cavaliers vs. Portland Trail Blazers ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442668.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:30 ◘ NBA ◘ Oklahoma City Thunder vs. Denver Nuggets ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",21:30 ◘ NBA ◘ Oklahoma City Thunder vs. Denver Nuggets ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442669.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ NHL ◘ Los Angeles Kings vs. Carolina Hurricanes ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ NHL ◘ Los Angeles Kings vs. Carolina Hurricanes ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442670.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ◘ NHL ◘ Boston Bruins vs. Tampa Bay Lightning ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ NHL ◘ Boston Bruins vs. Tampa Bay Lightning ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442671.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:30 ◘ NHL ◘ Vegas Golden Knights vs. Anaheim Ducks ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",21:30 ◘ NHL ◘ Vegas Golden Knights vs. Anaheim Ducks ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442672.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ MASL ◘ Utica City FC vs. Milwaukee Wave ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/masl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ MASL ◘ Utica City FC vs. Milwaukee Wave ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442673.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ MASL ◘ Baltimore Blast vs. Empire Strykers ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/masl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ MASL ◘ Baltimore Blast vs. Empire Strykers ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442674.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ MASL ◘ San Diego Sockers vs. Tacoma Stars ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/masl.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ MASL ◘ San Diego Sockers vs. Tacoma Stars ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442675.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 ◘ NCAA ◘ Baylor vs. West Virginia ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ NCAA ◘ Baylor vs. West Virginia ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442676.ts
-#EXTINF:-1 tvg-id="" tvg-name="15:00 ◘ NCAA ◘ Florida State vs. Clemson ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",16:00 ◘ NCAA ◘ Florida State vs. Clemson ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442677.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:00 ◘ NCAA ◘ Richmond vs. VCU ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",12:00 ◘ NCAA ◘ Richmond vs. VCU ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442678.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 ◘ NCAA ◘ Alabama vs. Florida ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ NCAA ◘ Alabama vs. Florida ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442679.ts
-#EXTINF:-1 tvg-id="" tvg-name="12:00 ◘ NCAA ◘ Chattanooga vs. Furman ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ NCAA ◘ Chattanooga vs. Furman ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442680.ts
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ NCAA ◘ Tulane vs. Memphis ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ NCAA ◘ Tulane vs. Memphis ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442681.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ NCAA ◘ Wichita State vs. Tulsa ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ NCAA ◘ Wichita State vs. Tulsa ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442682.ts
-#EXTINF:-1 tvg-id="" tvg-name="02:30 ◘ Australian Open ◘ AO Animated: Men's Championship ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ao.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",03:30 ◘ Australian Open ◘ AO Animated: Men's Championship ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442683.ts
-#EXTINF:-1 tvg-id="" tvg-name="02:30 ◘ Australian Open ◘ Carlos Alcaraz vs. Novak Djokovic (Final) ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ao.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",03:30 ◘ Australian Open ◘ Carlos Alcaraz vs. Novak Djokovic (Final) ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442684.ts
-#EXTINF:-1 tvg-id="" tvg-name="02:00 ◘ Australian Open ◘ Men's Championship Pre-Show (ES) ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ao.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",03:00 ◘ Australian Open ◘ Men's Championship Pre-Show (ES) ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442685.ts
-#EXTINF:-1 tvg-id="" tvg-name="03:00 ◘ Australian Open ◘ Generali Hexagon Cup (Final) ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ao.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",04:00 ◘ Australian Open ◘ Generali Hexagon Cup (Final) ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442686.ts
-#EXTINF:-1 tvg-id="" tvg-name="01:00 ◘ Australian Open ◘ Highlights Día 14 ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ao.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",02:00 ◘ Australian Open ◘ Highlights Día 14 ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442687.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ Australian Open ◘ Highlights Día 15 ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ao.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Australian Open ◘ Highlights Día 15 ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442688.ts
-#EXTINF:-1 tvg-id="" tvg-name="03:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – Stadium Court ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",04:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – Stadium Court ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442689.ts
-#EXTINF:-1 tvg-id="" tvg-name="05:00 ◘ WTA ◘ Ostrava Open – Center Court ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",06:00 ◘ WTA ◘ Ostrava Open – Center Court ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442690.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:30 ◘ WTA ◘ Transylvania Open – Center Court ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",08:30 ◘ WTA ◘ Transylvania Open – Center Court ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442691.ts
-#EXTINF:-1 tvg-id="" tvg-name="07:30 ◘ WTA ◘ Transylvania Open – Court 2 ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",08:30 ◘ WTA ◘ Transylvania Open – Court 2 ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442692.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:00 ◘ NBA G League ◘ Rip City Remix vs. Capitanes CDMX ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nbagleague.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",17:00 ◘ NBA G League ◘ Rip City Remix vs. Capitanes CDMX ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442693.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ NCAA ◘ Bridgeport vs. Pennsylvania ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ NCAA ◘ Bridgeport vs. Pennsylvania ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442694.ts
-#EXTINF:-1 tvg-id="" tvg-name="16:00 ◘ NCAA ◘ Iowa State vs. Denver ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",17:00 ◘ NCAA ◘ Iowa State vs. Denver ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442695.ts
-#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ NASCAR ◘ Practice & Qualifying ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ NASCAR ◘ Practice & Qualifying ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442696.ts
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NASCAR ◘ Last Chance Qualifying Race ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NASCAR ◘ Last Chance Qualifying Race ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442697.ts
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ NASCAR ◘ 200 Laps / 50.6 Miles ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="⚽PPV-EVENTOS DEL 1 DE FEBRERO (Hora Guatemala) ⚽",20:00 ◘ NASCAR ◘ 200 Laps / 50.6 Miles ◘ EN-HD ◘
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442698.ts
+⚽PPV-EVENTOS DEL 02 DE FEBRERO (Hora Guatemala) ⚽
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ Premier League ◘ Sunderland vs. Burnley ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Premier League ◘ Sunderland vs. Burnley ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442746.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ Premier League ◘ Sunderland vs. Burnley ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/premierleague.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Premier League ◘ Sunderland vs. Burnley ◘ ES-SD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442747.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ LaLiga ◘ Mallorca vs. Sevilla ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ LaLiga ◘ Mallorca vs. Sevilla ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442748.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ LaLiga ◘ Mallorca vs. Sevilla ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ LaLiga ◘ Mallorca vs. Sevilla ◘ ES-SD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442749.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:30 ◘ LaLiga SmartBank ◘ Mirandés vs Málaga ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",13:30 ◘ LaLiga SmartBank ◘ Mirandés vs Málaga ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442750.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:45 ◘ Serie A ◘ Udinese vs. Roma ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",13:45 ◘ Serie A ◘ Udinese vs. Roma ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442751.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:45 ◘ Serie A ◘ Udinese vs. Roma ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",13:45 ◘ Serie A ◘ Udinese vs. Roma ◘ ES-SD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442752.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:45 ◘ Primeira Liga ◘ AVS vs. Sporting Braga ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",12:45 ◘ Primeira Liga ◘ AVS vs. Sporting Braga ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442753.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:45 ◘ Primeira Liga ◘ Casa Pia vs. Porto ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:45 ◘ Primeira Liga ◘ Casa Pia vs. Porto ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442754.ts
+#EXTINF:-1 tvg-id="" tvg-name="09:15 ◘ Pro League ◘ Al Riyadh vs. Al Nassr ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",09:15 ◘ Pro League ◘ Al Riyadh vs. Al Nassr ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442755.ts
+#EXTINF:-1 tvg-id="" tvg-name="09:15 ◘ Pro League ◘ Al Riyadh vs. Al Nassr ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",09:15 ◘ Pro League ◘ Al Riyadh vs. Al Nassr ◘ ES-SD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442756.ts
+#EXTINF:-1 tvg-id="" tvg-name="11:30 ◘ Pro League ◘ Al Hilal vs. Al Ahli ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",11:30 ◘ Pro League ◘ Al Hilal vs. Al Ahli ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442757.ts
+#EXTINF:-1 tvg-id="" tvg-name="11:30 ◘ Pro League ◘ Al Hilal vs. Al Ahli ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",11:30 ◘ Pro League ◘ Al Hilal vs. Al Ahli ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442758.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:30 ◘ Liga Profesional ◘ Gimnasia La Plata vs. Aldosivi ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:30 ◘ Liga Profesional ◘ Gimnasia La Plata vs. Aldosivi ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442759.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:45 ◘ Liga Profesional ◘ Tigre vs. Racing Club ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",16:45 ◘ Liga Profesional ◘ Tigre vs. Racing Club ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442760.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:45 ◘ Liga Profesional ◘ Defensa y Justicia vs. Estudiantes ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",16:45 ◘ Liga Profesional ◘ Defensa y Justicia vs. Estudiantes ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442761.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ Liga Profesional ◘ Argentinos Juniors vs. Belgrano ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ Liga Profesional ◘ Argentinos Juniors vs. Belgrano ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442762.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:20 ◘ Primera A ◘ Inter Bogotá vs. Deportes Tolima ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",17:20 ◘ Primera A ◘ Inter Bogotá vs. Deportes Tolima ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442763.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:20 ◘ Primera A ◘ Inter Bogotá vs. Deportes Tolima ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",17:20 ◘ Primera A ◘ Inter Bogotá vs. Deportes Tolima ◘ ES-SD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442764.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ Primera A ◘ Deportivo Pereira vs. Junior ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:30 ◘ Primera A ◘ Deportivo Pereira vs. Junior ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442765.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ Primera A ◘ Deportivo Pereira vs. Junior ◘ ES-SD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:30 ◘ Primera A ◘ Deportivo Pereira vs. Junior ◘ ES-SD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442766.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:00 ◘ CONCACAF U17 ◘ Guyana vs. St. Vincent & the Grenadines ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",13:00 ◘ CONCACAF U17 ◘ Guyana vs. St. Vincent & the Grenadines ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442767.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ CONCACAF U17 ◘ Islas Caimán vs. St. Lucia ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ CONCACAF U17 ◘ Islas Caimán vs. St. Lucia ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442768.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:00 ◘ CONCACAF U17 ◘ Granada vs. Anguila ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",16:00 ◘ CONCACAF U17 ◘ Granada vs. Anguila ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442769.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ CONCACAF U17 ◘ Haití vs. Guatemala ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",17:00 ◘ CONCACAF U17 ◘ Haití vs. Guatemala ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442770.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ CONCACAF U17 ◘ Honduras vs. Jamaica ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ CONCACAF U17 ◘ Honduras vs. Jamaica ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442771.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ CONCACAF U17 ◘ Costa Rica vs. Cuba ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/concacafsub17.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ CONCACAF U17 ◘ Costa Rica vs. Cuba ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442772.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ Liga 1 ◘ Comerciantes Unidos vs. Deportivo Moquegua ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/peru.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Liga 1 ◘ Comerciantes Unidos vs. Deportivo Moquegua ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442773.ts
+#EXTINF:-1 tvg-id="" tvg-name="15:00 ◘ Primera Chile ◘ Everton vs. Unión La Calera ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",15:00 ◘ Primera Chile ◘ Everton vs. Unión La Calera ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442774.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ Liga MX Femenil ◘ Santos Laguna vs. Monterrey ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ Liga MX Femenil ◘ Santos Laguna vs. Monterrey ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442775.ts
+#EXTINF:-1 tvg-id="" tvg-name="09:30 ◘ ATP ◘ Open Occitanie – Primera Ronda ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",09:30 ◘ ATP ◘ Open Occitanie – Primera Ronda ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442776.ts
+#EXTINF:-1 tvg-id="" tvg-name="01:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – Primera Ronda ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",01:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – Primera Ronda ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442777.ts
+#EXTINF:-1 tvg-id="" tvg-name="01:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – ADCB Court 1 ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",01:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – ADCB Court 1 ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442778.ts
+#EXTINF:-1 tvg-id="" tvg-name="01:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – Court 2 ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",01:00 ◘ WTA ◘ Mubadala Abu Dhabi Open – Court 2 ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442779.ts
+#EXTINF:-1 tvg-id="" tvg-name="03:00 ◘ WTA ◘ Transylvania Open – Center Court ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",03:00 ◘ WTA ◘ Transylvania Open – Center Court ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442780.ts
+#EXTINF:-1 tvg-id="" tvg-name="03:00 ◘ WTA ◘ Transylvania Open – Court 2 ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",03:00 ◘ WTA ◘ Transylvania Open – Court 2 ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442781.ts
+#EXTINF:-1 tvg-id="" tvg-name="03:30 ◘ WTA ◘ Ostrava Open – Center Court ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",03:30 ◘ WTA ◘ Ostrava Open – Center Court ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442782.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:30 ◘ NCAA Women´s ◘ Maryland-Eastern Shore vs. North Carolina Central ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",16:30 ◘ NCAA Women´s ◘ Maryland-Eastern Shore vs. North Carolina Central ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442783.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NCAA Women´s ◘ Tennessee Tech vs. Tennessee State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",17:00 ◘ NCAA Women´s ◘ Tennessee Tech vs. Tennessee State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442784.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NCAA Men´s ◘ Gardner-Webb vs. Charleston Southern ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",17:00 ◘ NCAA Men´s ◘ Gardner-Webb vs. Charleston Southern ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442785.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NCAA Men´s ◘ SE Louisiana vs. Lamar ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NCAA Men´s ◘ SE Louisiana vs. Lamar ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442786.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ NCAA Men´s ◘ New Orleans vs. East Texas A&M ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ NCAA Men´s ◘ New Orleans vs. East Texas A&M ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442787.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ NCAA Men´s ◘ Nicholls vs. Northwestern State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ NCAA Men´s ◘ Nicholls vs. Northwestern State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442788.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ NCAA Men´s ◘ Houston Christian vs. UT Rio Grande Valley ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ NCAA Men´s ◘ Houston Christian vs. UT Rio Grande Valley ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442789.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ NCAA Men´s ◘ McNeese vs. Stephen F.Austin ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ NCAA Men´s ◘ McNeese vs. Stephen F.Austin ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442790.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ NCAA Men´s ◘ Maryland-Eastern Shore vs. North Carolina Central ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ NCAA Men´s ◘ Maryland-Eastern Shore vs. North Carolina Central ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442791.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ NCAA Women´s ◘ Sacramento State vs. Weber State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ NCAA Women´s ◘ Sacramento State vs. Weber State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442792.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ NCAA Men´s ◘ Tennessee Tech vs. Tennessee State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:30 ◘ NCAA Men´s ◘ Tennessee Tech vs. Tennessee State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442793.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ◘ NCAA Women´s ◘ Portland State vs. Idaho State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",20:00 ◘ NCAA Women´s ◘ Portland State vs. Idaho State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442794.ts
+#EXTINF:-1 tvg-id="" tvg-name="21:00 ◘ NCAA Men´s ◘ Weber State vs. Sacramento State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",21:00 ◘ NCAA Men´s ◘ Weber State vs. Sacramento State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442795.ts
+#EXTINF:-1 tvg-id="" tvg-name="21:00 ◘ NCAA Men´s ◘ Idaho State vs. Portland State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",21:00 ◘ NCAA Men´s ◘ Idaho State vs. Portland State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442796.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 ◘ NCAA ◘ North Carolina vs NC State ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",17:00 ◘ NCAA ◘ North Carolina vs NC State ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442797.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ NCAA ◘ South Carolina vs Texas A&M ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ NCAA ◘ South Carolina vs Texas A&M ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442798.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NCAA ◘ Syracuse vs North Carolina ◘ ESPN 4 ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NCAA ◘ Syracuse vs North Carolina ◘ ESPN 4 ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442799.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ◘ NCAA ◘ Kansas vs Texas Tech ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",20:00 ◘ NCAA ◘ Kansas vs Texas Tech ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442800.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:00 ◘ NCAA Men's Ice Hockey ◘ Harvard vs Boston College ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",16:00 ◘ NCAA Men's Ice Hockey ◘ Harvard vs Boston College ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442801.ts
+#EXTINF:-1 tvg-id="" tvg-name="11:00 ◘ NCAA Men's Lacrosse ◘ Robert Morris vs Johns Hopkins ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",11:00 ◘ NCAA Men's Lacrosse ◘ Robert Morris vs Johns Hopkins ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442802.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ WWE ◘ WWE Raw ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/wweraw.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ WWE ◘ WWE Raw ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442803.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NBA ◘ New Orleans Pelicans vs. Charlotte Hornets ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NBA ◘ New Orleans Pelicans vs. Charlotte Hornets ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442804.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NBA ◘ Houston Rockets vs. Indiana Pacers ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NBA ◘ Houston Rockets vs. Indiana Pacers ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442805.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ NBA ◘ Minnesota Timberwolves vs. Memphis Grizzlies ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ NBA ◘ Minnesota Timberwolves vs. Memphis Grizzlies ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442806.ts
+#EXTINF:-1 tvg-id="" tvg-name="21:00 ◘ NBA ◘ Philadelphia 76ers vs. Los Angeles Clippers ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",21:00 ◘ NBA ◘ Philadelphia 76ers vs. Los Angeles Clippers ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442807.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NHL ◘ Buffalo Sabres vs. Florida Panthers ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NHL ◘ Buffalo Sabres vs. Florida Panthers ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442808.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NHL ◘ Ottawa Senators vs. Pittsburgh Penguins ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NHL ◘ Ottawa Senators vs. Pittsburgh Penguins ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442809.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:00 ◘ NHL ◘ New York Islanders vs. Washington Capitals ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:00 ◘ NHL ◘ New York Islanders vs. Washington Capitals ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442810.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ◘ NHL ◘ Montreal Canadiens vs. Minnesota Wild ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",18:30 ◘ NHL ◘ Montreal Canadiens vs. Minnesota Wild ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442811.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ NHL ◘ St. Louis Blues vs. Nashville Predators ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ NHL ◘ St. Louis Blues vs. Nashville Predators ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442812.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ NHL ◘ San Jose Sharks vs. Chicago Blackhawks ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:30 ◘ NHL ◘ San Jose Sharks vs. Chicago Blackhawks ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442813.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ◘ NHL ◘ Winnipeg Jets vs. Dallas Stars ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:30 ◘ NHL ◘ Winnipeg Jets vs. Dallas Stars ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442814.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ◘ NHL ◘ Detroit Red Wings vs. Colorado Avalanche ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",20:00 ◘ NHL ◘ Detroit Red Wings vs. Colorado Avalanche ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442815.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:30 ◘ NHL ◘ Vancouver Canucks vs. Utah Mammoth ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",20:30 ◘ NHL ◘ Vancouver Canucks vs. Utah Mammoth ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442816.ts
+#EXTINF:-1 tvg-id="" tvg-name="21:00 ◘ NHL ◘ Toronto Maple Leafs vs. Calgary Flames ◘ EN-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/nhl.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",21:00 ◘ NHL ◘ Toronto Maple Leafs vs. Calgary Flames ◘ EN-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442817.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:00 ◘ Serie del Caribe ◘ Cangrejeros de Santaturce (PR) vs. Leones del Escogido (RD) ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriedelcaribe.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",14:00 ◘ Serie del Caribe ◘ Cangrejeros de Santaturce (PR) vs. Leones del Escogido (RD) ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442818.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ◘ Serie del Caribe ◘ Charros de Jalisco (MX) vs. Federales de Chiriquí (PA) ◘ ES-HD ◘" tvg-logo="http://213.145.87.11:90/Logos/ppv/seriedelcaribe.png" group-title="⚽PPV-EVENTOS DEL 2 DE FEBRERO (Hora Guatemala) ⚽",19:00 ◘ Serie del Caribe ◘ Charros de Jalisco (MX) vs. Federales de Chiriquí (PA) ◘ ES-HD ◘
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/442819.ts
 
 ▶️ SKY SPORTS⚽️
 #EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="▶️ SKY SPORTS⚽️",Sky Sports
