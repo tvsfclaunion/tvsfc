@@ -138,8 +138,10 @@ https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Canal 10 solola
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", El Roy TV Canal 100 Solola
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", El Roy TV Canal 50 Solola
 http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/62.m3u8
+#EXTINF:-1 group-title="✅ TV GUATEMALA ✅", Rudy Vision Canal 21
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/75
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TVQ Live
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",TVQ Tv
