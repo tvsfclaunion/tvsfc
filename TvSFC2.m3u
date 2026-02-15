@@ -2266,6 +2266,8 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/262725.ts
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/262728.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVISION HD" tvg-logo="http://daleplay.club:8080/images/a3fa6320b10d8c821f6da40c07ffb800.png" group-title="❎ BOLIVIA PREMIUM ❎",BOL : BOLIVISION HD
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/262729.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVISION HD" tvg-logo="http://daleplay.club:8080/images/a3fa6320b10d8c821f6da40c07ffb800.png" group-title="❎ BOLIVIA PREMIUM ❎",BOL : BOLIVISION HD
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="❎ BOLIVIA PREMIUM ❎",BOL : BOLIVIA TV 7.2 HD
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/262737.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVIA TV 7.1 HD" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="❎ BOLIVIA PREMIUM ❎",BOL : BOLIVIA TV 7.1 HD
@@ -2331,7 +2333,9 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/295587.ts
 #EXTINF:-1 tvg-id="" tvg-name="PALENQUE TV" tvg-logo="http://daleplay.club:8080/images/8b18bb6dee1c3c5812e319230e619735.png" group-title="❎ BOLIVIA PREMIUM ❎",PALENQUE TV
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/295588.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOL : RTP HD" tvg-logo="http://dplatino.net:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="❎ BOLIVIA PREMIUM ❎",BOL : RTP HD
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/262733.ts
+https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZsTa3EKH8Z2Qw-SumUP0v9a90dre04puIW4VnSo2-wWVWXpOoVD1nNfM&s=10" group-title="❎ BOLIVIA PREMIUM ❎", CORAL TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 ❎MEXICO❎
 #EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO TV HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="❎ MEXICO ❎",MX | MILENIO TV HD
