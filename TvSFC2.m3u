@@ -1154,14 +1154,13 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/346686.ts
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/400290.ts
 
 ⏩️NOTICIAS 24/7⏪️
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iYP2ju37l4HxuudDrrys4BcCsWlRaDUWmIvcXNkEf2SyPzgYHWQbpGbz&s=10" group-title="⏩️EVENTOS EN VIVO OCCIDENTE 🇬🇹",Producciones Santay
-https://video-lhr6-2.xx.fbcdn.net/hvideo-cco-ftw/_nc_cat-104/_nc_sr_t-4/v/rAScpqEZj89h1bdcGoWvNJKqOw410Wvs4TqTV5qLEzbyPhw/_nc_ohc-YqA0UtoIaaYQ7kNvwEXGgUy/live-dash/dash-abr-ibr-audio/1345116754305570.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_Afvf1iSmS2REMTWxnlPe-bU5GI-Kr4BaKSxYQz3JSlbHAQ&oe=699E4FDC
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tQ941SU5UR0/maxresdefault.jpg" group-title="⏩️NOTICIAS 24/7⏪️",Milenio Noticias EN VIVO
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771885289/ei/iX6cacr8D8e4mLAPm4uT4Qk/ip/185.27.134.47/id/tQ941SU5UR0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51757982%2C51757983%2C51757984%2C51757985/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/gb/ss/1/ssa/1/bui/AVNa5-xVNzTi7W1vnnLzdb6vAHGWUd_978ytiEbH_q-nkCdRAHyoqmkCmt5jisyA8ilaU9kxJDvnZ6BZ/spc/6dlaFKGEt71ySzirH3ORmOlBDDrkuh9DsUTaswB-pbJTtiLG5GV0hLtz7k2fuog6cmv2VA/vprv/1/go/1/ns/CkN7qUZawLrbLqqTzAnuUU8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/11/n/kqGwnTkoi_TG5wjLaAI/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgPX89D7cXk_xTE0eAZn-npy7_XLgimc5_B_MV_05Jp_wCIQDDMh65ALAyJEzCwXp6p0Zb-Ez0eRzF11icRarOFOvAkw%3D%3D/file/index.m3u8
 
+
+▶️MUSICA24/7⏪️
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iK-IbwOobRo/maxresdefault.jpg" group-title="▶️MUSICA24/7⏪️",DANCE REMIXES - AO VIVO 🔊🔥 80s, 90s, 2000s e Atuais! (LIVE 116)🎧
+https://ythls.armelin.one/channel/iK-IbwOobRo.m3u8
 ✅CULTURA✅
 #EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="Discovery Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2he_V5EXXTHItP1KU4wxitqgJH_SHy6yBRNYEx-AXwg&s=10" group-title=" ✅ CULTURA  ✅",Discovery Channel HD
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/53457.ts
