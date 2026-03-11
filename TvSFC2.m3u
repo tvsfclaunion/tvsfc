@@ -10,13 +10,13 @@ https://channel1-tva.duin.dev/tv/streaming/2/stream.m3u8
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdX7cTd25lwffh3ghKI3NnT_RAe0q017le_Rx0LzcpM-YDbiqjQkC7B3E&s=10" group-title="✅ TV GUATEMALA ✅",Canal 100 Chinique
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Knal 4 Quiché 
+EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Knal 4 Quiché 
 
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 11 Guate
 http://goflixpro.com:8080//live/Vhidalgo/WMQ2qdyEbuvX/986.ts
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 11 GT
 http://goflixpro.com:8080//live/Vhidalgo/WMQ2qdyEbuvX/135425.ts
-#EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 11 Guatemala
+EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 11 Guatemala
 
 #EXTINF:-1 group-title="✅ TV GUATEMALA ✅",Canal 13 GT
 http://goflixpro.com:8080//live/Vhidalgo/WMQ2qdyEbuvX/223646.ts
